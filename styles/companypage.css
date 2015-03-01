@@ -1,0 +1,135 @@
+html
+	{ 
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+body
+	{ 
+		font: normal 80% Arial, Helvetica, sans-serif;
+		background: url(C:/Users/vidheesha/Desktop/website/styles/images/hearts1.jpg);
+		background-repeat:no-repeat;
+		background-size:cover;
+		height: 800px;
+    }
+
+.maindiv
+	{
+        margin-left:auto;
+        margin-right: auto;
+        background-color:white;
+        width:75%;
+        height:800px;
+	}
+.subdiv1
+	{
+		height:170px;
+	}
+.section_div1
+	{
+		margin-top:0px;
+		margin-bottom: 0px;
+		padding:0px;
+		height: 350px;
+		width:100%;
+		background-color:black;
+	}
+.footer1
+	{
+		height:83px;
+		width:100%;
+		background-color: black;
+		margin-top: -19px;
+	}
+ul li
+	{
+        display:inline;
+        font-size: 100%;
+        font-style: bold;
+
+	}	
+ul li a
+	{
+		text-decoration:none;
+		color:black;
+		margin: 0px 40px 0px 0px;
+	}
+ul#element1
+	{
+		padding: 40px 20px 0px 550px; 
+		
+	}
+#element1 a:hover
+	{
+    	color:white;
+    	background-color: red;
+    	border-radius:5px 5px 5px 5px;
+    	display:inline-block;
+    	text-align: center;
+	}	
+.img_class1 img
+	{
+		padding:0px 0px 0px 60px;
+	}	
+.bottomsubdiv1
+	{
+		display:inline-block;
+	}
+.inside_div 
+	{
+		margin-left: 160px;
+		margin-top: -95px;
+	}
+.h1_div
+	{
+		color:red;
+	}
+.h5_div
+	{
+		color:black;
+		margin-top: -13px;
+	}
+.img_class2
+	{
+		float:right;
+		margin-top: -222px;
+		margin-right: 77px;
+	}
+.sub_sec_div1 
+	{
+		color: white;
+		padding:40px 0px 0px 40px;				
+	}
+.sub_sec_div2 
+	{
+		color:red;
+		padding: 5px 0px 0px 40px	
+	}
+button
+	{
+		background-color:white;
+		color:red;
+		border-radius: 5px;
+		height: 40px;
+		width: 200px;
+	}
+.sub_sec_div3 
+	{
+		padding: 30px 0px 0px 40px;	
+	}
+.sub_sec_div1_1
+	{
+		text-decoration:underline;
+		color:white;
+	}	
+.sec_div2 
+	{
+		float: left;
+		margin:0px 0px 0px 25px;
+	}	
+.middlesection_div2
+	 {
+		float: right;
+		margin-top: -60px;	
+	}
